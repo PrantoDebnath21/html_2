@@ -1,0 +1,23 @@
+h1{
+	color: blue;
+}
+.blue{
+	border: 8px dashed;
+}
+h2{
+	color: yellow;
+}
+.film{
+	background-color: darkblue;
+}
+h3{
+	color: darkgreen;
+}
+#font_size{
+	font-size: 25pt;
+}
+.box{
+	width: 50px;
+	height: 25px;
+	background-color: red;
+}
